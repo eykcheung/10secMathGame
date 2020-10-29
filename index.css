@@ -2,3 +2,18 @@
 h2 {
   color: blue;
 }
+
+.operatingRow {
+  margin: 0 auto;
+  width: 500px;
+  padding: 30px;
+}
+
+.col-xs-3 {
+  display: inline-block;
+}
+
+#slider {
+  height: 20px;
+  background: green;
+}
