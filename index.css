@@ -1,19 +1,29 @@
 /*index.css*/
 h2 {
   color: blue;
-}
-
-.operatingRow {
-  margin: 0 auto;
-  width: 500px;
   padding: 30px;
 }
 
-.col-xs-3 {
-  display: inline-block;
+.inputForm {
+  text-align: center;
+  float: none;
 }
 
-#slider {
+.operatingRow {
+  padding: 10px;
+}
+
+.operators {
+  font-weight: bold;
+}
+
+#myRange {
   height: 20px;
   background: green;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.slideContainer {
+  /*margin: 0 auto;*/
 }
